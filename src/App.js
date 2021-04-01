@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Form></Form>
-      <Message></Message>
+      {/* <Message></Message> */}
     </div>
   )
 }
